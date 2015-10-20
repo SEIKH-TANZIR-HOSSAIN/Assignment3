@@ -1,0 +1,63 @@
+wrapper
+{
+	height: 100%;
+	width: 100%;
+	margin: 5px;
+	background-color: white;
+}
+wrapper wrapper1 
+{
+	height: 40%;
+	width: 100%;
+	background-color: mediumaquamarine;
+	float: left;
+    margin: 0px;
+}
+wrapper  wrapper2
+{
+    height: 60%;
+	width: 100%;
+	background-color: magenta;
+	float: left;
+	margin: 0px;
+}
+wrapper  wrapper1  wrapper3
+{
+    height: 40%;
+	width: 30%;
+	background-color: chocolate;
+	float: left;
+    margin: 0px;
+}
+wrapper  wrapper1  wrapper4
+{
+    height: 40%;
+	width: 50%;
+	background-color: white;
+	float: left;
+	margin: 0px;
+}
+wrapper wrapper1 wrapper5
+{
+    height: 40%;
+	width: 20%;
+	background-color: white;
+	float: left;
+    margin: 0px;
+}
+wrapper  wrapper3  wrapper8
+{
+    height: 50%;
+	width: 50%;
+	background-color: black;
+	float: left;
+    margin: 0px;
+}
+wrapper  wrapper3  wrapper9
+{
+    height: 50%;
+	width: 50%;
+	background-color: yellow;
+	float: left;
+    margin: 0px;
+}
